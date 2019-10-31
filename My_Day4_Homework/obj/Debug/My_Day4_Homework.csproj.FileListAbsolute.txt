@@ -1,0 +1,6 @@
+C:\Users\Yash Chatim\Engineering45\week2\Day4\My_Day4_Homework\My_Day4_Homework\obj\Debug\My_Day4_Homework.csprojAssemblyReference.cache
+C:\Users\Yash Chatim\Engineering45\week2\Day4\My_Day4_Homework\My_Day4_Homework\bin\Debug\My_Day4_Homework.exe.config
+C:\Users\Yash Chatim\Engineering45\week2\Day4\My_Day4_Homework\My_Day4_Homework\bin\Debug\My_Day4_Homework.exe
+C:\Users\Yash Chatim\Engineering45\week2\Day4\My_Day4_Homework\My_Day4_Homework\bin\Debug\My_Day4_Homework.pdb
+C:\Users\Yash Chatim\Engineering45\week2\Day4\My_Day4_Homework\My_Day4_Homework\obj\Debug\My_Day4_Homework.exe
+C:\Users\Yash Chatim\Engineering45\week2\Day4\My_Day4_Homework\My_Day4_Homework\obj\Debug\My_Day4_Homework.pdb
